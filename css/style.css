@@ -94,6 +94,11 @@
 #top10Div{
 	width: 50%;
 	margin-left: 80px;
+	background-color: #77C7D9;
+	border-radius: 30px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 #top10List{
