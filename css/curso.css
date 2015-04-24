@@ -1,0 +1,27 @@
+#subFrame{
+	padding: 50px 80px 80px 80px;
+}
+
+#subFrame iframe{
+	margin-left: 100px;
+	margin-top: 70px;
+	display: inline-block;
+}
+
+#desc{
+	width: 600px;
+	height: 400px;
+	margin-top: 150px;
+	background-color: blue;
+	display: inline-block;
+}
+
+#temas{
+	background-color: red;
+	margin-top: 30px;
+	margin-left: 100px;
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 900px;
+	height: 400px;
+}
