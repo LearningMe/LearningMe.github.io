@@ -44,7 +44,7 @@
 
 #username{
 	width: 93%;
-	height: 80px;
+	height: 5.000em;
 	background-color: #f1eac9;
 	margin-left: 0.625em;
 	margin-right: 0.625em;
@@ -53,30 +53,30 @@
 }
 #password{
 	width: 93%;
-	height: 80px;
+	height: 5.000em;
 	background-color: #f1eac9;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 0.625em;
+	margin-right: 0.625em;
 	margin-top: 0.313em;
-	margin-bottom: 10px;
+	margin-bottom: 0.625em;
 }
 #e-mail{
 	width: 93%;
-	height: 80px;
+	height: 5.000em;
 	background-color: #f1eac9;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-left: 0.625em;
+	margin-right: 0.625em;
+	margin-top: 0.625em;
+	margin-bottom: 0.625em;
 }
 #institution{
 	width: 93%;
-	height: 80px;
+	height: 5.000em;
 	background-color: #f1eac9;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-left: 0.625em;
+	margin-right: 0.625em;
+	margin-top: 0.625em;
+	margin-bottom: 0.625em;
 }
 #mainFrame2{
 	width: 100%;
@@ -84,7 +84,7 @@
 }
 #logo{
 	color: green;
-	margin-left: 200px;
+	margin-left: 12.500em;
 }
 
 #coursesDiv{
@@ -93,12 +93,12 @@
 
 #top10Div{
 	width: 50%;
-	margin-left: 80px;
+	margin-left: 5.000em;
 	background-color: #77C7D9;
-	border-radius: 30px;
-	padding-right: 10px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	border-radius: 1.875em;
+	padding-right: 0.625em;
+	padding-top: 0.625em;
+	padding-bottom: 0.625em;
 }
 
 #top10List{
@@ -106,29 +106,29 @@
 }
 
 #top10List li{
-	padding-left: 30px;
-	border-bottom: 2px solid;
+	padding-left: 1.875em;
+	border-bottom: 0.125em solid;
 }
 
 #subFrame2{
-	margin-top: 50px;
+	margin-top: 3.125em;
 }
 #video{
 	width: 100%;
-	height: 350px;
+	height: 21.875em;
 	background-color: none;
-	margin-bottom: 10px;
+	margin-bottom: 0.625em;
 }
 
 #top10{
-	height: 380px;
+	height: 23.750em;
 	background-color: #f1eacb;
 	border-radius: 10%;
-	margin-bottom: 10px;
+	margin-bottom: 0.625em;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 50px;
-	width: 500px;
+	margin-top: 3.125em;
+	width: 31.250em;
 }
 
 #top10 h2{
@@ -137,10 +137,10 @@
 
 #course{
 	background-color: none;
-	margin: 50px 50px 50px 50px;
-	height: 300px;
-	width: 300px;
-	border-radius: 20px;
+	margin: 3.125em 3.125em 3.125em 3.125em;
+	height: 18.750em;
+	width: 18.750em;
+	border-radius: 1.250em;
 }
 
 #mainFrame {
@@ -158,33 +158,33 @@
 
 }
 #title{
-	margin-left: 100px;
-	margin-top: 200px;
+	margin-left: 6.250em;
+	margin-top: 12.500em;
 }
 
 #title h1{
 	font-family: 'Dosis', sans-serif;
-	font-size: 50px;
+	font-size: 3.125em;
 : 'Quicksand', sans-serif;
-	font-size: 50px;
+	font-size: 3.125em;
 }
 
 #subTitle{
-	margin-left: 100px;
+	margin-left: 6.250em;
 }
 
 #subTitle h4{
 	font-family: 'Dosis', sans-serif;
-	font-size: 20px;
+	font-size: 1.250em;
 : 'Dosis', sans-serif;
-	font-size: 20px;
+	font-size: 1.250em;
 
 }
 
 #whatIsIt{
 	background-color: #F0ECEB;
 	width: 100%;
-	height: 1000px;
+	height: 62.500em;
 	padding: 10px;
 }
 
