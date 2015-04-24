@@ -189,7 +189,7 @@
 	background-color: #F0ECEB;
 	width: 100%;
 	height: 62.500em;
-	padding: 10px;
+	padding: 0.625em;
 }
 
 #whatIsItDiv {
@@ -197,7 +197,7 @@
 	padding-right: 15em;
 	padding-top: 5em;
 	text-align: center;
-	height: 500px;
+	height: 31.250em;
 }
 
 #videoDescMedia {
@@ -206,7 +206,7 @@
 
 #whatIsIt h2{
 	font-family: 'Dosis', sans-serif;
-	font-size: 30px;
+	font-size: 1.875em;
 : 'Quicksand', sans-serif;
 }
 
@@ -216,9 +216,9 @@
 }
 
 #learningStyle {
-	height: 500px;
+	height: 31.250em;
 	background-color: #0583F2;
-	padding: 10px,;
+	padding: 0.625em,;
 	width: 100%;
 }
 
@@ -237,17 +237,17 @@
 }
 
 #learningP{
-	font-size: 12px;
+	font-size: 0.750em;
 }
 
 #learningP2 {
-	font-size: 16px;
+	font-size: 1.000em;
 	color: #D2D3D9;
 }
 
 #learningStyle span{
-	margin-left: 10px;
-	font-size: 13px;
+	margin-left: 0.625em;
+	font-size: 0.813em;
 }
 
 #purpose {
@@ -255,7 +255,7 @@
 	padding-right: 15em;
 	padding-left: 17em;
 	padding-top: 8em;
-	height: 500px;
+	height: 31.250em;
 }
 
 #purposeText {
@@ -264,8 +264,8 @@
 
 #imgStyles {
 	background-image: url("https://www.frbatlanta.org/~/media/Images/assets/image_gallery/learningstyles001h.ashx");
-	width: 220px;
-	height: 220px;
+	width: 13.750em;
+	height: 13.750em;
 	border-radius: 100%;
 }
 
@@ -274,7 +274,7 @@
 	padding-left: 17em;
 	padding-top: 4em;
 	background-color: #0583F2;
-	height: 700px;
+	height: 43.750em;
 }
 
 #teamDescText {
@@ -289,32 +289,32 @@
 #teamImg {
 	background-image: url("file:///C:/Users/Gabriel/Documents/GitHub/markrivac.github.io/img/gabo.jpg");
 	border-radius: 100%;
-	height: 200px;
-	width: 200px;
+	height: 12.500em;
+	width: 12.500em;
 }
 
 #teamImg2 {
 	background-image: url("file:///C:/Users/Gabriel/Documents/GitHub/markrivac.github.io/img/gabo.jpg");
 	border-radius: 100%;
-	margin-top: 20px;
-	height: 200px;
-	width: 200px;
+	margin-top: 1.250em;
+	height: 12.500em;
+	width: 12.500em;
 }
 
 #teamImg3 {
 	background-image: url("file:///C:/Users/Gabriel/Documents/GitHub/markrivac.github.io/img/gabo.jpg");
 	border-radius: 100%;
-	margin-top: 10px;
-	height: 200px;
-	width: 200px;
+	margin-top: 0.625em;
+	height: 12.500em;
+	width: 12.500em;
 }
 
 #sponsorImg {
 	background-image: url("file:///C:/Users/Gabriel/Documents/GitHub/markrivac.github.io/img/gabo.jpg");
 	border-radius: 100%;
 	margin-top: 9em;
-	height: 200px;
-	width: 200px;
+	height: 12.500em;
+	width: 12.500em;
 }
 
 #audience {
@@ -323,7 +323,7 @@
 	padding-left: 15em;
 	padding-right: 25em;
 	padding-top: 3em;
-	height: 500px;
+	height: 31.250em;
 }
 
 #audienceText {
@@ -331,8 +331,8 @@
 }
 
 #audienceImg {
-	width: 400px;
-	height: 300px;
+	width: 25.000em;
+	height: 18.750em;
 	border-radius: 100%;
 	background-image: url("http://www.experian.com/blogs/marketing-forward/wp-content/uploads/2013/08/audience-targeting.jpg");
 }
@@ -344,28 +344,28 @@
 #itzel{
 	text-align: center;
 	font-family: 'Dosis', sans-serif;
-	font-size: 25px;
+	font-size: 1.563em;
 }
 #gabo{
 	text-align: center;
 	font-family: 'Dosis', sans-serif;
-	font-size: 25px;
+	font-size: 1.563em;
 
 }
 #mark{
 	text-align: center;
 	font-family: 'Dosis', sans-serif;
-	font-size: 25px;
+	font-size: 1.563em;
 }
 
 
 .imagen{
-width: 300px;
- height: 300px;
- border-radius: 150px;
--moz-border-radius: 150px;
--webkit-border-radius: 150px;
--khtml-border-radius: 150px;
+width: 18.750em;
+ height: 18.750em;
+ border-radius: 9.375em;
+-moz-border-radius: 9.375em;
+-webkit-border-radius: 9.375em;
+-khtml-border-radius: 9.375em;
  overflow: hidden;
  float: right;
 }
