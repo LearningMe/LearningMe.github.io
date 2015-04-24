@@ -1,11 +1,11 @@
 
 #LogInPage{
-	background-image: url("http://2011.joelglovier.com/img/wallpaper/power-3.jpg");
+	background-image: url("http://i1.wp.com/appleweblog.hipertextual.com/files/2012/06/MacBook-Pro-abiertas-800x436.jpg?resize=800%2C436");
 	background-size: 100% 100%;
 }
 
 #titulo{
-	margin-left: 100px;
+	margin-left: 50px;
 	font-family: 'Dosis', sans-serif;
 	color: #6E6E6E;
 	margin-top: 50px;
@@ -38,18 +38,18 @@
 	width: 15.625em;
 	height: 9.375em;
 	background-color: none;
-	margin-left: 10px;
+	margin-left: 100px;
 	margin-right: 2.188em;
-	margin-top: 100px;
+	margin-top: 40px;
 	display: inline-block;
 }
 #SignUp{
 	width: 15.625em;
 	height: 9.375em;
 	background-color: none;
-	margin-left: 50px;
+	margin-left: 500px;
 	margin-right: 2.188em;
-	margin-top: 100px;
+	margin-top: 40px;
 	display: inline-block;
 
 }
