@@ -20,7 +20,7 @@
 	background-color: none;
 	margin-left: 	31.250em;
 	margin-right: 2.188em;
-	margin-top: 100px;
+	margin-top: 6.250em;
 	display: inline-block;
 }
 #SignUp{
@@ -28,17 +28,17 @@
 	height: 9.375em;
 	background-color: none;
 	margin-left: 31.250em;
-	margin-right: 3.125em;
-	margin-top: 20px;
+	margin-right: 2.188em;
+	margin-top: 6.250em;
 	display: inline-block;
 
 }
 .button{
 	width: 93%;
-	height: 40px;
+	height: 2.500em;
 	background-color: #a3bf78;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 0.625em;
+	margin-right: 0.625em;
 
 }
 
@@ -46,10 +46,10 @@
 	width: 93%;
 	height: 80px;
 	background-color: #f1eac9;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-left: 0.625em;
+	margin-right: 0.625em;
+	margin-top: 0.313em;
+	margin-bottom: 0.625em;
 }
 #password{
 	width: 93%;
@@ -57,7 +57,7 @@
 	background-color: #f1eac9;
 	margin-left: 10px;
 	margin-right: 10px;
-	margin-top: 10px;
+	margin-top: 0.313em;
 	margin-bottom: 10px;
 }
 #e-mail{
