@@ -1,12 +1,17 @@
+
 #LogInPage{
-	background-image: url("http://i.huffpost.com/gen/1510136/images/o-DIGITAL-BOOKS-facebook.jpg");
+	background-image: url("http://2011.joelglovier.com/img/wallpaper/power-3.jpg");
 	background-size: 100% 100%;
 }
 #makers{
 	text-align: left;
 	font-size: 0.938em;
 }
-
+.images{
+	padding:10px;
+  width: 300px;
+  height: 300px;
+}
 
 .inicio{
 	text-align: center;
@@ -81,11 +86,9 @@
 #mainFrame2{
 	width: 100%;
 	height: 100%;
-	background-image:url("http://2011.joelglovier.com/img/wallpaper/power-3.jpg");
+	background-image:url("http://netupd8.com/walls/Woodism%201920x1080.resized.jpg");
 }
-#fondoPrincipal{
-	background-color: red;
-}
+
 #logo{
 	color: green;
 	margin-left: 12.500em;
