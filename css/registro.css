@@ -1,4 +1,8 @@
 #cuestionario{
-	padding: 1.875em 43.75em 1.875em 1.875em;
+	padding: 1.875em 1.875em 1.875em 5em;
 
+}
+
+#cuesDesc{
+	padding: 1.875em 8em 1.875em 1.875em;
 }
