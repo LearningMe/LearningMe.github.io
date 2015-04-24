@@ -80,7 +80,11 @@
 }
 #mainFrame2{
 	width: 100%;
-	background-color: #f1eac9;
+	height: 100%;
+	background-image:url("http://2011.joelglovier.com/img/wallpaper/power-3.jpg");
+}
+#fondoPrincipal{
+	background-color: red;
 }
 #logo{
 	color: green;
