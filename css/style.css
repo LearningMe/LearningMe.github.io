@@ -185,7 +185,7 @@ hr{
 #username{
 	width: 93%;
 	height: 5.000em;
-	background-color: #f1eac9;
+	background-color: none;
 	margin-left: 0.625em;
 	margin-right: 0.625em;
 	margin-top: 10px;
@@ -194,7 +194,7 @@ hr{
 #password{
 	width: 93%;
 	height: 5.000em;
-	background-color: #f1eac9;
+	background-color: none;
 	margin-left: 0.625em;
 	margin-right: 0.625em;
 	margin-top: 0.313em;
@@ -203,7 +203,7 @@ hr{
 #e-mail{
 	width: 93%;
 	height: 5.000em;
-	background-color: #f1eac9;
+	background-color: none;
 	margin-left: 0.625em;
 	margin-right: 0.625em;
 	margin-top: 0.625em;
