@@ -209,14 +209,19 @@ hr{
 	margin-top: 0.625em;
 	margin-bottom: 0.625em;
 }
-#institution{
+#terms{
 	width: 93%;
-	height: 5.000em;
+	height: 2.000em;
 	background-color: #f1eac9;
 	margin-left: 0.625em;
 	margin-right: 0.625em;
 	margin-top: 0.625em;
 	margin-bottom: 0.625em;
+	text-align: center;
+}
+
+#terms a{
+	text-decoration: none;
 }
 #mainFrame2{
 	width: 100%;
