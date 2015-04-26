@@ -167,7 +167,7 @@ hr{
 	width: 15.625em;
 	height: 9.375em;
 	background-color: none;
-	margin-left: 31.250em;
+	margin-left: 10.250em;
 	margin-right: 2.188em;
 	margin-top: 2.500em;
 	display: inline-block;
@@ -193,11 +193,8 @@ hr{
 }
 #password{
 	width: 93%;
-	height: 5.000em;
 	background-color: none;
 	margin-left: 0.625em;
-	margin-right: 0.625em;
-	margin-top: 0.313em;
 	margin-bottom: 0.625em;
 }
 #e-mail{
@@ -212,7 +209,7 @@ hr{
 #terms{
 	width: 93%;
 	height: 2.000em;
-	background-color: #f1eac9;
+	background-color:none;
 	margin-left: 0.625em;
 	margin-right: 0.625em;
 	margin-top: 0.625em;
