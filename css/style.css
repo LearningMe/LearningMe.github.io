@@ -5,6 +5,8 @@ body{
 	}
 .button{
 	font-family:'Raleway',Helvetica,Arial,sans-serif;
+	background-color: #96CDCD;
+
 	}
 .button-group li{
 		padding-top:3%;}
@@ -113,7 +115,7 @@ hr{
 	margin-left: 40px;
 	font-family: 'Dosis', sans-serif;
 	color: #6E6E6E;
-	margin-top: 5px;
+	margin-top: 5%;
 	font-size: 90px;
 	/*font-weight: bold;*/
 }
@@ -156,18 +158,18 @@ hr{
 	width: 15.625em;
 	height: 9.375em;
 	background-color: none;
-	margin-left: 100px;
+	margin-left: 6.250em;
 	margin-right: 2.188em;
-	margin-top: 40px;
+	margin-top: 2.500em;
 	display: inline-block;
 }
 #SignUp{
 	width: 15.625em;
 	height: 9.375em;
 	background-color: none;
-	margin-left: 500px;
+	margin-left: 31.250em;
 	margin-right: 2.188em;
-	margin-top: 40px;
+	margin-top: 2.500em;
 	display: inline-block;
 
 }
