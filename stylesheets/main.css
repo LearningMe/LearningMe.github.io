@@ -17,7 +17,7 @@ body {background: #ccc url(../images/bg.png); border-top: 3px solid #000}
 p {color: #000; font-size: 13px}
 
 h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal}
-.heading_dots {background: url(../images/heading_dots_grey.png) repeat-x center}
+.heading_dots {background: url(../Images/heading_dots_grey.png) repeat-x center}
 .heading_dots_grey {background: url(../images/heading_dots_grey.png) repeat-x center}
 .heading_bg {background:#FFF; padding-right: 10px}
 .heading_center_bg {background:#FFF; padding:0 10px}
