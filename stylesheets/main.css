@@ -1,10 +1,10 @@
 /* Css Theme by CssTemplateHeaven - www.csstemplateheaven.com */
 
-body {background: #ccc url(../images/bg.png); border-top: 3px solid #000}
+body {background: #FFF url(../images/bg.png)}
 
-.row {width: 960px}
+.row {width: 90%; height:90%}
 
-.page_wrap {margin: 25px auto 25px; border-radius: 3px; background: #FFF; box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4)}
+.page_wrap {margin: 0px auto 0px; border-radius: 0px; background: #FFF; box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4)}
 
 .header_nav {background: #f8f8f8; padding: 10px 0 2px; margin-bottom: 25px}
 
@@ -16,6 +16,8 @@ body {background: #ccc url(../images/bg.png); border-top: 3px solid #000}
 .blog_post {}
 p {color: #000; font-size: 13px}
 
+#perfil{color: #006699}
+
 h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal}
 .heading_dots {background: url(../Images/heading_dots_grey.png) repeat-x center}
 .heading_dots_grey {background: url(../images/heading_dots_grey.png) repeat-x center}
@@ -25,8 +27,8 @@ h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal}
 .heading_supersize {font-size: 74px; text-align:center; font-weight: normal; line-height: normal; margin:0 0 40px}
 .heading_largesize {font-size: 44px; text-align:center; font-weight: normal}
 
-.dropcap_green, 
-.dropcap_black {  
+.dropcap_green,
+.dropcap_black {
             border-radius: 100px 100px 100px 100px;
             display: block;
 			float: left;
@@ -37,8 +39,8 @@ h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal}
 			width: 35px;
 }
 
-.dropcap_green {background: #aec71e; color: #FFF}
-.dropcap_black {background: #000; color: #FFF}
+.dropcap_green {background: #006699; color: #FFF}
+.dropcap_black {background: #96CDCD; color: #FFF}
 
 .panel {background: #fafafa}
 
@@ -46,18 +48,19 @@ h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal}
 
 .panel.callout p {color: #FFF}
 
+.Instrucciones{ color: #006699; background: #FFF }
 
 .nav-bar {margin-top: 0; background: none}
 .nav-bar > li {border: 0; padding: 0; font-family: 'Open Sans Condensed',sans-serif; letter-spacing: 1px}
 .nav-bar > li > a:first-child {font-size: 16px; text-transform: uppercase; padding: 5px 25px}
 .nav-bar > li:last-child {border: 0}
 .nav-bar > li.active:hover { background: #F8F8F8; cursor: default; }{}
-.nav-bar > li:hover { background: #F8F8F8; color: #000;         
+.nav-bar > li:hover { background: #F8F8F8; color: #000;
         -webkit-transition: all .2s ease-in-out;
         -moz-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
-        transition: all .2s ease-in-out; 
+        transition: all .2s ease-in-out;
 }
 
 .nav-bar > li > a { color: #000}
@@ -72,14 +75,14 @@ h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal}
 
 ul.flyout li, .nav-bar li ul li { border-left: 0}
 ul.flyout li a, .nav-bar li ul li a { background: #fff; border: 0; font-size: 16px;}
-ul.flyout li a:hover, .nav-bar li ul li a:hover { background: #f4f4f4; color: #000; border: 0;         
+ul.flyout li a:hover, .nav-bar li ul li a:hover { background: #f4f4f4; color: #000; border: 0;
         -webkit-transition: all .2s ease-in-out;
         -moz-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
-        transition: all .2s ease-in-out; 
+        transition: all .2s ease-in-out;
 		}
-		
+
 /* gallery menu */
 
 .gallery-nav-bar {list-style:none; text-align: center; padding-top:10px; font-family: 'Open Sans Condensed',sans-serif; letter-spacing: 2px; text-transform: uppercase}
@@ -94,7 +97,7 @@ ul.flyout li a:hover, .nav-bar li ul li a:hover { background: #f4f4f4; color: #0
 
 /* footer menu */
 
-.footer_menu {text-align:center; border-top: 1px dashed #999; margin: 25px 0 0; padding: 20px 0}
+.footer_menu {text-align:center; margin: 25px 0 0; padding: 20px 0}
 .footer_menu li {display: inline; list-style: none; margin-right: 20px}
 
 
@@ -136,7 +139,7 @@ ul.flyout li a:hover, .nav-bar li ul li a:hover { background: #f4f4f4; color: #0
 
 .rtl .box {
   float: right;
-  text-align: right; 
+  text-align: right;
   direction: rtl;
 }
 
@@ -161,6 +164,7 @@ ul.flyout li a:hover, .nav-bar li ul li a:hover { background: #f4f4f4; color: #0
 
 #tituloTab{
   font-weight: bold;
+  color:#96CDCD
 }
 
 #cursosTitle{
@@ -168,6 +172,5 @@ ul.flyout li a:hover, .nav-bar li ul li a:hover { background: #f4f4f4; color: #0
   font-family: 'Open Sans Condensed';
   font-size: 18px;
   font-weight: bold;
-  color: #CC8B14;
+  color:#6699FF;
 }
-

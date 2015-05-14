@@ -1,45 +1,27 @@
 <!DOCTYPE html>
 
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="en">
 <head>
   <meta charset="utf-8" />
 
-  <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
   <title>LearningMe! | Inicio</title>
 
-  <!-- Included CSS Files (Uncompressed) -->
-  <!--
-  <link rel="stylesheet" href="stylesheets/foundation.css">
--->
 
-<!-- Included CSS Files (Compressed) -->
 <link rel="stylesheet" href="stylesheets/foundation.min.css">
 <link rel="stylesheet" href="stylesheets/main.css">
 <link rel="stylesheet" href="stylesheets/app.css">
 
 <script src="javascripts/modernizr.foundation.js"></script>
 
-<!-- Google fonts -->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
-
-<!-- IE Fix for HTML5 Tags -->
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 
   </head>
   <body>
 
     <div class="row page_wrap">
-      <!-- page wrap -->
       <div class="twelve columns">
-        <!-- page wrap -->
 
         <div class="row">
           <div class="twelve columns header_nav">
@@ -48,7 +30,7 @@
               <ul id="menu-header" class="nav-bar horizontal">
 
 
-                <li class=""><h4 id="tituloTab">LearningMe!</h4></li>
+                <li class=""><h4 Style="color:#96CDCD"id="tituloTab">LearningMe!</h4></li>
 
 
 
@@ -60,10 +42,9 @@
 
                 <li class=""><a href="LogIn.html">Cerrar Sesión</a></li>
 
-                </ul><script type="text/javascript">
-           //<![CDATA[
-           $('ul#menu-header').nav-bar();
-            //]]>
+                </ul>
+                <script type="text/javascript">
+                $('ul#menu-header').nav-bar();
             </script>
 
           </div>
@@ -71,7 +52,7 @@
         </div>
 
 
-      </div><!-- END Header -->
+      </div>
 
 
 
@@ -82,67 +63,70 @@
       <div class="row hide-for-small">
 
         <div class="twelve columns">
-          <p id="perfil">Usuario<br>Canal de aprendizaje: Visual</p>
+          <p id="perfil">Usuario: Mario Vega<br>Tipo de aprendizaje: Visual</p>
 
-          <div class="heading_dots"><h1 class="heading_supersize" style="margin-bottom:10px"><span class="heading_center_bg">LearningMe!</span></h1></div>
+          <div class="heading_dots">
+            <h1 class="heading_supersize" style="margin-bottom:10px">
+              <span class="heading_center_bg" Style="color:#96CDCD">LearningMe!
+              </span>
+            </h1>
+          </div>
         </div>
 
-      </div><!-- end row -->
+      </div>
 
 
 
       <div class="row">
         <div class="three columns">
-          <h3>¿Qué hacer?</h3>
+          <h3 class="Instrucciones">¿Qué hacer?</h3>
 
           <p><span class="dropcap_green">!</span> Una vez que ya te registraste, puedes disfrutar de todos los cursos que LearningMe te ofrece! Sólo tienes que seguir estos pasos.</p>
         </div>
 
         <div class="three columns">
-          <h3>Elige un curso</h3>
+          <h3 class="Instrucciones">Elige un curso</h3>
 
           <p><span class="dropcap_black">1</span> Busca algún curso que te interese aprender en nuestra página de cursos en la barra superior!</p>
         </div>
 
         <div class="three columns">
-          <h3>Checa si te gusta</h3>
+          <h3 class="Instrucciones">Checa si te gusta</h3>
 
           <p><span class="dropcap_black">2</span> Una vez que escogiste un curso, en un primer vistazo se verá un curso introductorio sobre los temas, además de que se enlistarán los capítulos que abarcará el curso.</p>
         </div>
 
         <div class="three columns">
-          <h3>Aprende!</h3>
+          <h3 class="Instrucciones">Aprende!</h3>
 
           <p><span class="dropcap_black">3</span> Ya que te gustó lo que se verá en el curso, simplemente da click al siguiente video en la lista de capítulos y empieza a aprender!</p>
         </div>
 
-      </div><!-- end row -->
+      </div>
 
       <hr/>
 
       <div class="row" style="padding-top: 20px">
-        <h2 Style="text-align:center">Cursos más buscados!</h2>
+        <h2 Style="text-align:center" class="Instrucciones">Cursos más buscados!</h2>
         <div class="four columns">
           <img src="http://innoservice.org/wp-content/uploads/2015/01/HTML5_logo_and_wordmark.svg_.png" alt="desc" />
-          <h3>Aprende HTML</h3>
+          <h3 class="Instrucciones" Style="Text-align:center">Aprende HTML</h3>
           <p><em>En este curso conocerás todo acerca de html, la sintaxis, estructura y demás elementos para que te lleven a a ser un excelente programador!</em></p>
         </div>
 
         <div class="four columns">
           <img src="http://toplogos.ru/images/logo-css3.png" alt="desc" />
-          <h3>Todo sobre CSS</h3>
+          <h3 class="Instrucciones" Style="Text-align:center">Todo sobre CSS</h3>
           <p><em>Todo sobre CSS te ayuda a conocer CSS, lo escencial para poder empezar a diseñar tú página web!</em></p>
         </div>
 
         <div class="four columns">
           <img src="http://softwebpros.com/Images/js-logo.png" alt="desc" />
-          <h3>JavaScript</h3>
+          <h3 class="Instrucciones" Style="Text-align:center">JavaScript</h3>
           <p><em>Los temas de este curso te ayudarán a conocer Javascript, declaración de variables, funcione y demás para hacer tu página web mejor!</em></p>
         </div>
 
-      </div><!-- end row -->
-
-
+      </div>
 
       <div class="row">
         <div class="twelve columns">
@@ -153,17 +137,14 @@
       </div>
 
       <script type="text/javascript">
-          //<![CDATA[
           $('ul#menu3').nav-bar();
-          //]]>
           </script>
 
         </div>
 
-      </div><!-- end page wrap) -->
-      <!-- Included JS Files (Compressed) -->
+      </div>
       <script src="javascripts/foundation.min.js" type="text/javascript">
-    </script> <!-- Initialize JS Plugins -->
+    </script>
     <script src="javascripts/app.js" type="text/javascript">
     </script>
 

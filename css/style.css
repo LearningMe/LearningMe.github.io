@@ -1,12 +1,19 @@
+<<<<<<< HEAD
 @media print{
 	font-family: "Arial";
 	font-size: 1.5em;
+=======
+>>>>>>> origin/master
 
 body{
 	font-family:'Raleway',Helvetica,Arial,sans-serif;
 	font-weight:400;
 	background-color:rgba(0,0,0,0.02);
 	}
+#credentialPage{
+	width:100%;
+
+}
 .button{
 	font-family:'Raleway',Helvetica,Arial,sans-serif;
 	background-color: #96CDCD;
@@ -215,9 +222,12 @@ hr{
 }
 #password{
 	width: 93%;
+	height: 5.000em;
 	background-color: none;
 	margin-left: 0.625em;
 	margin-bottom: 0.625em;
+	margin-right: 0.625em;
+	margin-top: 10px;
 }
 #e-mail{
 	width: 93%;
