@@ -212,9 +212,12 @@ hr{
 }
 #password{
 	width: 93%;
+	height: 5.000em;
 	background-color: none;
 	margin-left: 0.625em;
 	margin-bottom: 0.625em;
+	margin-right: 0.625em;
+	margin-top: 10px;
 }
 #e-mail{
 	width: 93%;
